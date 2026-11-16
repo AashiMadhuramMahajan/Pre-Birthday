@@ -28,7 +28,7 @@ const defaultLetters = [
         salutation: "Darling,",
         body: "Baby you don't know how much it matters to me jab aap meri boli baat ek baar me sunte ho🥹, samjhte ho; I feel respected✨, I feel hounored, I feel loved 💗. \n\nMeri har choti baat sunte ho, meri mann ki baat sunte ho, kitni saari cheeze hai jo sirf isliye karte ho ki woh muzhe pasand hai🫂💞, jese jab me likh raha hun us din aap aapne naak me cheed karwaya, I know aapko pain hua phir bhi aapne kuch nahi bola🥹, thank you so much baby, I am so grateful for you, so lucky to have you, and I love you so much 💖. Thank you very much Darling Jiii 🥰! \n\nIss kaliyug me muzhe Satyayug vali Patni Jiii milli hai, so Grateful for you Baby !!!! Not just this, jab me yeh likh raha hun us time mumma ne bola beta beech ki paati mat kara karo aur aapne call me hi hairstyle change kardi, shayad yeh choti si baat ho aapke liye but you don't know how much these small things mean to me. Thank You Baby, thank you so much 💕",
         signature: "Yours completely",
-        photoUrl: "Desktop Background.enc"
+        photoUrl: "Photos\\IMG_E9971.enc"
     },
     {
         dayNumber: 27,
