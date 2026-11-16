@@ -8,7 +8,7 @@ const defaultLetters = [
         salutation: "My Dearest,",
         body: "Today officially begins our 30-day countdown to the sweetest day of the year 😍: Meri Radha Rani Ji ka Birthday 🫶! \n\nEvery Day 6:07 PM (IYKYK) from now until December 16th😊, a new love letter will be waiting here for you. Thirty days isn't just a number—it's 30 opportunities to tell you how truly beautiful 💖, kind 💗, and precious ✨ you are to me. \n\nI can't wait for our life together. Me aapke birthday pe Khargone to nahi aa paunga 🥺 Patni Ji par me try karunga ki aapko thoda sa pyaar kar sakun🥰 (waise toh aap bohot zyada deserve karte ho but baby I am trying)!",
         signature: "With all my heart",
-        photoUrl: "Desktop Background.enc"
+        photoUrl: "Photos\\IMG_0136.enc"
     },
     {
         dayNumber: 29,
@@ -18,7 +18,7 @@ const defaultLetters = [
         salutation: "My Sweet Love,",
         body: "The most beautiful gift you can give me apart from Kanha Ji 🤭 and Radhika Ji 🫣 is your smile 😊. Aapki smile ki tareef ki hi nahi ja sakti, itni sundar smile ki iss universe mein koi compare karne jesi sundar cheez hi nahi hai 🤗.\n\nAap jab haste ho mein bas bhagwan ji se pray karta hun ki aap esse hi haste raho humesha, 🤞💗 Always Smiling! \n\nJust ek burai hai ki aap kanjoos 🙃😉 ho boht zyaada, ek smile ke liye itni baar bolna padta hai, 👉👈 please Madam Jiii iss mamle me thodi kanjoosi kam kardo please, Return gift for meri Madam Jiiii ka 🥳🎀💕Happiest Birthday!",
         signature: "Always your biggest fan",
-        photoUrl: "Desktop Background.enc"
+        photoUrl: "Photos\\7H8A9897.enc"
     },
     {
         dayNumber: 28,

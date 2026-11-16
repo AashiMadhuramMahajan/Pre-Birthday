@@ -715,3 +715,104 @@ window.addEventListener('DOMContentLoaded', () => {
     updateClockAndHeader();
     setInterval(updateClockAndHeader, 1000);
 });
+
+const WA_TO_STORAGE_KEY = 'birthday_wa_to_number';
+
+function normalizeIndianPhone(raw) {
+  const digits = (raw || '').replace(/\D/g, '');
+  if (!digits) return '';
+  // Prepend 91 if a 10-digit Indian mobile number is entered
+  return digits.length === 10 ? `91${digits}` : digits;
+}
+
+function toggleWhatsappReplyForm(forceState) {
+  const form = document.getElementById('waReplyForm');
+  const phoneInput = document.getElementById('waToNumber');
+  if (!form) return;
+
+  const isCurrentlyHidden = form.classList.contains('hidden');
+  const shouldShow = typeof forceState === 'boolean' ? forceState : isCurrentlyHidden;
+
+  if (shouldShow) {
+    form.classList.remove('hidden');
+    if (phoneInput) {
+      phoneInput.value = localStorage.getItem(WA_TO_STORAGE_KEY) || '91';
+    }
+    document.getElementById('waReplyText')?.focus();
+  } else {
+    form.classList.add('hidden');
+  }
+}
+
+function sendWhatsappReply(event) {
+  event.preventDefault();
+
+  const phoneInput = document.getElementById('waToNumber');
+  const replyInput = document.getElementById('waReplyText');
+
+  const toNum = normalizeIndianPhone(phoneInput?.value);
+  const replyText = (replyInput?.value || '').trim();
+
+  if (!toNum || toNum === '91' || toNum.length < 11) {
+    alert('Please enter a valid 10-digit mobile number (with 91 country code).');
+    phoneInput?.focus();
+    return;
+  }
+
+  if (!replyText) {
+    alert('Please write a short reply before sending.');
+    replyInput?.focus();
+    return;
+  }
+
+  // Save number in localStorage for future letters
+  localStorage.setItem(WA_TO_STORAGE_KEY, toNum);
+
+  // Pull active modal letter details
+  const dayBadge = document.getElementById('modalDayBadge')?.innerText?.trim() || '';
+  const title = document.getElementById('modalLetterTitle')?.innerText?.trim() || '';
+  const body = document.getElementById('modalLetterContent')?.innerText?.trim() || '';
+
+  const fullMessage =
+    `Hey love, thanks for reading today's letter... it meant the world to me ❤️\n\n` +
+    `*${dayBadge} — ${title}*\n` +
+    `${body}\n\n` +
+    `💌 *My Reply:*\n` +
+    `${replyText}`;
+
+  const waUrl = `https://api.whatsapp.com/send?phone=${encodeURIComponent(toNum)}&text=${encodeURIComponent(fullMessage)}`;
+  window.open(waUrl, '_blank', 'noopener,noreferrer');
+
+  // Reset and collapse drawer
+  replyInput.value = '';
+  toggleWhatsappReplyForm(false);
+}
+
+function resetWhatsappReplyDrawer() {
+  toggleWhatsappReplyForm(false);
+  const replyInput = document.getElementById('waReplyText');
+  if (replyInput) replyInput.value = '';
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  // 1. Reset when clicking the '✕' close button
+  document.getElementById('closeLetterModalBtn')?.addEventListener('click', resetWhatsappReplyDrawer);
+
+  // 2. Reset when clicking 'Next Day ->'
+  document.getElementById('modalNextDayBtn')?.addEventListener('click', resetWhatsappReplyDrawer);
+
+  // 3. Reset when clicking the dark backdrop outside the card
+  const letterModal = document.getElementById('letterModal');
+  letterModal?.addEventListener('click', (e) => {
+    if (e.target === letterModal) {
+      resetWhatsappReplyDrawer();
+    }
+  });
+
+  // 4. Reset when pressing Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      resetWhatsappReplyDrawer();
+    }
+  });
+});
