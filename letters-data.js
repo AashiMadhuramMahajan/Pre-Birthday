@@ -36,9 +36,9 @@ const defaultLetters = [
         title: "27 Days To Go: Our Favorite Memories",
         quote: "Every memory with you is a treasure I keep close to my chest.",
         salutation: "My Forever Girl,",
-        body: "I found myself reminiscing about our earliest dates today—the late night conversations, the silly giggles, and that exact moment I knew I wanted to spend forever with you.\n\nLooking back makes me smile, but looking forward to our future together is my greatest joy.",
+        body: "I don't know about favorite memory but for sure its a moment I spent with you ✨. It is not a single moment of time, its every second that we spent together 🤩. \n\n\Its the hello we had on 27th 😊. Its the blush jo aapne kiya 😳 jab mumma aur bua ne aapse pucha kessa laga. \n\n\Its the moment jab aapne meko hath diya (the handshake)🤝❤️ at Ram Mandir, woh moment jab aap mandir me aandar bhagwan ✨🪷 ke pass ja ke bethe. Woh chai-Cappi pe meri side me bethna 🥰, woh meri haan hai 🎊🥳🎈 wala moment, woh 29th ko Hello Fiance 😘 wala moment. \n\n\Baby mene socha tha yeh likhna start karne ke pehle ki saare important moments likh lunga but abhi toh me sirf 29th tak hi pahuch paya 😅 hun, toh sorry I can't name any moments puri book hi bhar jayegi likhte likhte. So just know this ki every moment with you is important 🥰💖 and beautiful ✨. Maine socha me aapke liye kuch likhunga, but baby aapke pyaar ke samne mere works hi kam padh gaye, sorry but yeh wala letter toh sirf mehsos 💕 hi kar sakte hai. I Loveeeee Youuuuuuuuuuuuuuuuu 💗!!!",
         signature: "Eternally in love",
-        photoUrl: ""
+        photoUrl: "Photos\\IMG_0226.enc"
     },
     {
         dayNumber: 26,
