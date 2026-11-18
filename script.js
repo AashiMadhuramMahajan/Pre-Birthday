@@ -315,7 +315,7 @@ function openEnvelopeAndLetter() {
 
     setTimeout(() => {
         showLetterModal(selectedDayIndex);
-    }, 620);
+    }, 3200);
 }
 
 function showLetterModal(index) {
