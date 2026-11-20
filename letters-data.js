@@ -44,11 +44,11 @@ const defaultLetters = [
         dayNumber: 26,
         dateStr: "Nov 20",
         title: "26 Days To Go: Your Caring Heart",
-        quote: "Your kindness makes the world softer and brighter.",
+        quote: "Your loving heart makes my world beautiful and brighter.",
         salutation: "My Sweet Angel,",
-        body: "The world can be noisy and tough, but your heart is always so tender. The way you care for the people you love inspires me to be a better man every single day.",
+        body: "The most beautiful thing: Your Heart ❤️, so soft 💕, so caring 🧑‍❤️‍👩, so beautiful ✨, so selfless 💖, so kind 😇 and most imporatantly mine 😁. I am so grafeful for you baby 🥰, I don't have the words to express. \n\n\You stand by me every time, you tell things, you live cheerfully 🤩, sahi bolun jo aap esse cheerful rahete ho na woh mujhe sabse zyaada pasand hai, I know aap woh cheez zaroor karoge jo mujhe pasand hai 😍, so please stay cheerful always 🥰! Happy Always 😁! and You know.... Smiling always 😇! Please just isliye ke meko pasand hai baby pleaseeeeeee🫶!",
         signature: "Admiring you always",
-        photoUrl: ""
+        photoUrl: "Photos\\IMG_0156.enc"
     },
     {
         dayNumber: 25,
