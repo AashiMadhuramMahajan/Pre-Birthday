@@ -1,5 +1,5 @@
 const STORAGE_KEY = 'fiancee_birthday_letters_v2';
-const ADMIN_PIN = '2811'; // Admin PIN
+const ADMIN_PIN = '1235'; // Admin PIN
 
 let isAdminActive = false;
 let secretHeartClicks = 0;

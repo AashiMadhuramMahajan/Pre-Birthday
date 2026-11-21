@@ -56,9 +56,9 @@ const defaultLetters = [
         title: "25 Days To Go: A Quarter Century Mark!",
         quote: "Just 25 days left, and my excitement is overflowing.",
         salutation: "My Beautiful Fiancée,",
-        body: "25 days to go! In just a little over three weeks, we get to celebrate you being born. I hope you know that December 16 isn't just special to you—it is the anniversary of the world receiving its greatest masterpiece.",
+        body: "Yasssss mere baby 🥰❤️ ka birthday aane wala hai in just 25 days! 🥳🎂🎉 The biggest day of the year 🌎💖, meri dearest, beautiful 😍, cutest 🥹, and the bestest Patni Jiiiiii 👰🏻‍♀️💍 ka Happiest Birthday 💝🎊. \n\n\Aapko pata hai baby... 🥺💕 mera baby 25 din me 24 saal ka ho jayega and 25 start ho jayega! 🎂🎀 Meri pyaari - Cutiepie 🧸❤️ ka Birthday... 🥳🎉 I can't wait baby 😘 another 25 days .... ⏳💗 Jaldiiiii 😍 - Happy Birthday Baby in Advance! 🎂🎁💋❤️",
         signature: "With endless kisses",
-        photoUrl: ""
+        photoUrl: "Photos\\DSC08126.enc"
     },
     {
         dayNumber: 24,
