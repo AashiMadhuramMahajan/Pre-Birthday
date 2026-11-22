@@ -63,12 +63,12 @@ const defaultLetters = [
     {
         dayNumber: 24,
         dateStr: "Nov 22",
-        title: "24 Days To Go: Your Little Quirks",
+        title: "24 Days To Go: Your Little Quirks (aapki cute si aadatain)",
         quote: "It's the little things about you that captured my whole heart.",
         salutation: "Hey Cutie,",
-        body: "From the little expressions you make when you're thinking, to the songs you hum without noticing—every single detail of you is adorable to me. Never change a single thing.",
+        body: "Aapki yeh cute si aadatain mujko bohot pyari lagti hai baby 🥹❤️, but remember ki un aadaton se jyada pyari, jyada cute meri ek aadat hai woh hain meri Patni Jiii! 😘💗 \n\n\Aap kuch bhi karte ho na baby toh me aappe fidda ho jata hun 🫠❤️, aur aapki yeh cute-cute si aadatain ufffff.... 🙈💕 Woh kucchu pucchu ko leke sona 🧸🥺, woh ek marungi na bolna 😤😂, woh aakhain choti karke gussa karnne ki acting karna 😚🤏, Woh hehe karke hasna hayyyyy 😍💞. \n\n\Yeh saari baatain shayad aapke liye choti ho ya baachon jesi lagti ho 🥹, but baby aapki yeh aadatain, aapke cute se nakhre abb meri aadat ho gayi hai 🫶🏻❤️, jab bhi aap koi essi cute si cheez karte ho toh aapse pyaar aur ho jata hai.... 🥺💘 I Loveeeee Youuuuuuuuuuuuuu! 😘💋❤️🧿",
         signature: "Completely obsessed with you",
-        photoUrl: ""
+        photoUrl: "Photos\\cute.enc"
     },
     {
         dayNumber: 23,
