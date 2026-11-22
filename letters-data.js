@@ -76,9 +76,9 @@ const defaultLetters = [
         title: "23 Days To Go: How You Make Me Laugh",
         quote: "Laughter is sweetest when it's shared with you.",
         salutation: "My Favorite Person,",
-        body: "Nobody can make me burst into genuine, tummy-aching laughter the way you do. Life with you is so lighthearted and joyful. Thank you for filling our lives with fun.",
+        body: "I know baby aapko bohot accha lagta hai when I laugh, when I am happy, obviously meri Patni Jiii hai hi itni acchi sirf meko khush dekh ke hi khush ho jati hai. 🥹❤️\n\n\ Toh baby aaj ka letter thoda different hai, because its not about my baby (Sorry for this 🤭), its about me. Yassss you read it right it is about me. 😌😂\n\n\Its about aap mujhe kese hassa sakte ho. 🥰\n\n\So first and formost aap haste raho, happy raho, because You Happy I Double Happy. ❤️🫶\n\n\Next aapa chote bacchon jesse baat karna. Itna Marungi na... 😂❤️\n\n\Pata hai Kanha aaj kya hua... Baby aapko pata hai... 🥺💗 so so so many more aapke muh se yeh sab sunna itna accha lagta hai na lala me aapko kya bataun... 🥹😘\n\n\Itni sari aachi baatain hai aapme... itne cute ho aap... itna dyaan rakhte ho mera... itna pamper karte ho... 🥰❤️ itni baatain hai ki koi letter saari toh list hi nahi kar sakta... 🫂💕\n\n\I just want to tell you a big biggggggg bigggggggggggggg Thank Youuuuuuuuuu Babbyyyyyy!!! 🥹❤️❤️\n\n\Forever Grateful Lala... 🫶✨\n\n\and I know no words, no appriciation, no gratitude, no thank you can ever be enough for what you do for me but... 🥺 still as a token of love and a lot of respect please accept a small effort of gratitude and appriciation... from your Forver to My baby (Your Highness)! 👑❤️\n\n\Thank You Very Much Darling! 😘💗",
         signature: "Smiling because of you",
-        photoUrl: ""
+        photoUrl: "Photos\\7H8A0459.enc"
     },
     {
         dayNumber: 22,
