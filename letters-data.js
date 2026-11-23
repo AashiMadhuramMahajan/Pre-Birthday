@@ -86,9 +86,9 @@ const defaultLetters = [
         title: "22 Days To Go: The Comfort of Your Hugs",
         quote: "Home isn't a place anymore—it's being wrapped in your arms.",
         salutation: "My Sweetheart,",
-        body: "Whenever I hug you, everything else fades away. There's an unmistakable sense of belonging that only you can give me. Sending you the warmest, tightest hug today.",
+        body: "Yasss baby 🥹❤️ your hugs 🤗💕, I know its just a small word but its worth writting an individual letter for. \n\n\💌 You remember I used to say no for hugs, wese toh toh me sahi hi bol raha tha baby, ab dekho na kessi aadat ho gayi hai yaar, everyday, every moment, I am craving for it 🥺🫂, shayad aapko bhi yeh feel hota ho ❤️. \n\n\Kitni bhi tension ho, me kitna hi travel karne ke baad Khargone kyun na aaya hun aapki ek hug and I don't have words, woh emotion, woh feeling....pata hi nahi ki usse kya bolun, just pure relive. 🥹💗 \n\n\Ek toh aap itne sundar 😍, upar se aapka warm sa hug essa lagta hai bas aur tight, aur tight, aur tight ekdum tightest 🫂❤️ {agar mere baby ki permission ho toh} 🙈💕. Your hug is the sweetest medicine darling! 💊🥰 \n\n\Thank You!!! ❤️ \n\n\I love you baby! 😘💋 \n\n\Aur haa one more thing baby meko aapke Kucchu Pucchu se bhi jalan hoti hai, usko aapko hug karke rahne milta hai {Woh bade kann wala teddy bear} 🧸😤... \n\n\Basss thoda time aur... Yasssss 🥹❤️🫂",
         signature: "Holding you tight",
-        photoUrl: "Desktop Background.enc"
+        photoUrl: "Photos\\DSC08175.enc"
     },
     {
         dayNumber: 21,
