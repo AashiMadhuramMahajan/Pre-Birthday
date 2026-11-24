@@ -96,9 +96,9 @@ const defaultLetters = [
         title: "21 Days To Go: Exactly Three Weeks!",
         quote: "Three weeks from today is December 16th!",
         salutation: "My Queen,",
-        body: "We are officially down to 3 weeks! The days are flying by, and every morning I wake up counting down closer to treating you like royalty on your birthday.",
+        body: "Just 21 days baby - 3 weeks to my baby ka Happy {Happiest I hope} birthday. 🥹💖🎂 \n\n\No words how exicted I am, for the Hapyyyyyyyy Birthdayyyyy to My kucchuu puchuuu 🥹💕, My chotu baby 💖🧸, My darling 😘❤️, My heart ❤️, My Heart beat 💓, My sweet heart 💗, My wife 😍💍, My life 🧬❤️, My dreams 🤩✨, My everything 🥰🌎, My Angel 😇👼, My bestest friend 🫂💕, My Queen 👑❤️, My princess 👸💖, My dearest Patni ji 💝😘, My Radhika Jii and Kanha Jii ki cute Mata Shri 🫣💞, My Radha Rani Ji 💖🌸🙏",
         signature: "Counting every second",
-        photoUrl: ""
+        photoUrl: "Photos\\DSC07889.enc"
     },
     {
         dayNumber: 20,
@@ -186,7 +186,7 @@ const defaultLetters = [
         title: "12 Days To Go: A Dozen Days Left!",
         quote: "12 days until the sweetest birthday celebration.",
         salutation: "Darling,",
-        body: "A dozen days! Think of this note as a dozen virtual roses delivered straight into your heart. You deserve all the blossoms in the world.",
+        body: "A dozen days! Think of this note as a dozen virtual roses delivered straight into your heart. You deserve all the blossoms in the world. The days are flying by, and every morning I wake up counting down closer to treating you like royalty on your birthday.",
         signature: "All my devotion",
         photoUrl: ""
     },
