@@ -103,12 +103,12 @@ const defaultLetters = [
     {
         dayNumber: 20,
         dateStr: "Nov 26",
-        title: "20 Days To Go: Your Passion & Drive",
-        quote: "Watching you chase your dreams is purely breathtaking.",
+        title: "20 Days To Go: Your Efforts",
+        quote: "Thank You baby for your efforts and your love for me!",
         salutation: "My Inspiration,",
-        body: "I am in awe of how hard you work and the dedication you bring to everything you set your mind on. You are intelligent, strong, and capable of anything.",
-        signature: "Forever cheering for you",
-        photoUrl: ""
+        body: "Baby dekho please jalan mat karna 😘❤️, abb sabhi ke itne punya nahi hote na ki, abb baby bohot punya karna padte hai meri madam jii jesi patni jii paane ke liye samjhe 🥹💗, esse hi nahi bolta yeh sab me lala 😌💕, you don't know mera baby mere se kitna saara pyaar karta hai madam 🥰❤️./n/n/Mere ek normal se birthday ke liye pura din baith ke gift banaya hai mere baby ne 🎁💝, meri baby mere liye cute - cute se hankerchiefs bhi banati hai 🥺🧸, mere liye roz subah mere se bhi pehle uth ke meko utahta ho, jab tak nahi uthta hun aap try karte rahte ho 🥹💖.\n\n\I love you baby ❤️, isliye nahi ki aap meri liye efforts karte ho, for all these efforts that you make for me I am just grateful for you!!! 🫶🏻💗\n\n\Thankyou lala!!! 😘 And Yasss even reading these letters everyday is an effort and yasss I am very grateful to you for all these things!!! 💌❤️\n\n\Thank You So Much !!! I love you!!! 🥰💋",
+        signature: "Forever thankful for you",
+        photoUrl: "Photos\\IMG_0173.enc"
     },
     {
         dayNumber: 19,
