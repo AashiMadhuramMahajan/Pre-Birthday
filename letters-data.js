@@ -116,9 +116,9 @@ const defaultLetters = [
         title: "19 Days To Go: Our Secret Language",
         quote: "A single look between us says a thousand words.",
         salutation: "My Best Friend,",
-        body: "I love that we can look at each other across a crowded room and immediately know what the other is thinking. That unspoken connection is rare and priceless.",
+        body: "Yeh wala toh todha sa chotu sa letter hai baby. 💌🥹❤️ This is just to remind you of how much that sweet cute secret language mean to me. 🫶🏻💕 Woh Radhey Radhey bolna 🌸🙏🏻 {Jo abb secret nahi raha hai, everybody knows 😂❤️}. Woh Radhika Jii and Kanha Jii ki batein 🦚💛, woh 31st wali batein 🥰✨ and so many more. ❤️😘",
         signature: "Only yours",
-        photoUrl: ""
+        photoUrl: "Photos\\IMG_0295.enc"
     },
     {
         dayNumber: 18,
