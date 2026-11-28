@@ -126,9 +126,9 @@ const defaultLetters = [
         title: "18 Days To Go: Grateful for You",
         quote: "Gratitude fills my heart every time I look at you.",
         salutation: "My Love,",
-        body: "If I listed everything I'm thankful for in you, I would need a million pages. You have enriched my life in ways words cannot capture.",
+        body: "Forever Grateful for you, my baby ❤️🥹\n\n\I have told you this so many times, but I don't think I can ever say it enough. ❤️ I just want to remind you once again, baby, that I am so, so, so grateful to have you in my life. For everything you are, for everything you do, and for all the little and big ways you make my life beautiful. 🥹💗\n\n\Thank you for being someone I can trust with my heart, someone I can cry in front of without hesitation, someone who understands me, supports me, and stands by me. Thank you for being my best friend, my Radha Rani Jii, my Patni Jii. ❤️🦚\n\n\Thank you for loving me, trusting me, helping me, believing in me, and making me feel loved in ways I cannot always put into words. You make me want to become a better person, and having you by my side is one of the biggest blessings of my life. 🫂❤️\n\n\If I had to choose all over again, I would still choose you, in every lifetime, in every universe, without a second thought. ♾️💍\n\n\Thank you for being YOU, baby. I am, and will always be, grateful for you. ❤️\n\n\**My Wife ❤️ My Life ❤️ My Forever ❤️**",
         signature: "Grateful forever",
-        photoUrl: ""
+        photoUrl: "Photos\\DSC07913.enc"
     },
     {
         dayNumber: 17,
